@@ -1,0 +1,35 @@
+h1{ 
+    color: aqua;
+    text-align: center;  
+}
+
+.header{
+    background-color:darkblue ;
+
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #bc8f8f;
+    
+}
